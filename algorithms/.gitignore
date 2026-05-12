@@ -21,6 +21,7 @@ env/
 # Dataset
 data/
 dataset/
+FBlocation/
 
 # Logs
 logs/
